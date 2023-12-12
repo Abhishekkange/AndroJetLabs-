@@ -1,0 +1,11 @@
+.leftBox{
+
+    display: flex;
+}
+.rightBox{
+
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    
+}
